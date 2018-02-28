@@ -1,25 +1,30 @@
-# ReduxSimpleStarter
+# React U.S. Weather Report
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+## Requirements
 
-### Getting Started
+For development, you will only need Node.js installed on your environement.
+And please use the appropriate [Editorconfig](http://editorconfig.org/) plugin for your Editor (not mandatory).
 
-There are two methods for getting started with this repo.
+### Node
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+[Node](http://nodejs.org/) is really easy to install & now include [NPM](https://npmjs.org/).
+You should be able to run the following command after the installation procedure
+below.
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+    $ node --version
+    v0.10.24
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+    $ npm --version
+    1.3.21
 
-```
-> npm install
-> npm start
-```
+---
+
+## Install
+
+    $ git clone https://github.com/NickLont/react-youtube-search.git
+    $ cd PROJECT
+    $ npm install
+    
+## Start & watch
+
+    $ npm start
